@@ -2,7 +2,11 @@
 
 MATLAB script that shows motion across different trajectoris of a SCARA robot.
 User can choose one of 5 different modes of operation in `SCARA_VISUALIZER.m` code (`mode` variable).
+
 For further description and screenshots consult [this pdf](./SCARA_Forward_and_Inverse_Kinematics.pdf).
+
+<img src="./robot3D.png" height=300>
+
 
 ## What I have learnt?
 
